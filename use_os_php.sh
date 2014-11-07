@@ -17,6 +17,3 @@ else
   exit 1;
 fi
 
-#sudo mv /usr/bin/php /usr/bin/php.orig
-
-#sudo ln -s $php_path /usr/bin/php 
